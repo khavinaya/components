@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnBoarding Screen Component</string>
+    <string name="title1">Shop from Your \n favorite restaurant</string>
+    <string name="text1">A diverse list of different dining \n restaurants throughout the territory and \n around your area carefully selected</string>
+    <string name="title2">Quick delivery to \n your doorstep</string>
+    <string name="text2">We have a dynamic and professional \n delivery team that is professionally and \n intelligently trained</string>
+    <string name="title3">Convenience e-wallet \n app connecting</string>
+    <string name="text3">A diverse list of different dining \n restaurants throughout the territory and \n around your area carefully selected</string>
+
+</resources>
